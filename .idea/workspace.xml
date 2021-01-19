@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c157203-c7ff-4094-b473-131175bb5593" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/digger.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EndScreen2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalScreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstScreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECTBETA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klad1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/земля.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/небо.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/трава.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
